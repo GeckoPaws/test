@@ -1,2 +1,2 @@
 print ("hello world")
-print("this is a committed file")
+print("this is a committed")
